@@ -16,6 +16,7 @@ public class Again {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi there");
+        System.out.println("what's up?");
     }
     
 }
